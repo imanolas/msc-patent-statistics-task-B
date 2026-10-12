@@ -1,0 +1,756 @@
+<DOCNO>
+EP-0003401-A1
+</DOCNO>
+<CLAIMS>
+<CLAIM1>
+1. A cutter assembly comprising a housing, a member slidable within the housing, a first cutter member secured to the housing and disposed substantially internally thereof, a second cutter member mounted on the slidable member for movement therewith and disposed internally of the housing, the second cutter member being movable towards and away from the first cutter member and co-opereiting therewith to @erforr a cutting aclicl in lose, and an opening in the 
+Throught which a workpiece can be inserted in use to be cut by the cutter members.
+</CLAIM1>
+<CLAIM2>
+2. A cutter assembly as in claim 1 wherein the housing has a cavity therein which is disposed so as to receive pieces of the workpiece which al'e -iemoved by th cutter members in use, and means is provided for removing the pieces from the cavity.
+</CLAIM2>
+<CLAIM3>
+3. A cutter assembly as in claim 2 wherein the removing Leans includes fluid directing means which opens into te e cavity and which is arranged to guide the removed pieces to the workpiece into an outlet from the cavity.
+</CLAIM3>
+<CLAIM4>
+4. A A cutter assembly as in claim 3 wherein the cavity is connectable to a vacuum source,
+ he second cutter member when juxtaposed to the first cutted member substantially seals the cavity, and the fluid diresting means comprises at least one port which communicates With the exterior of the housing, whereby external atmosphere enters the cavity through the or each port when a vacuum is applied to the cavity in use.
+</CLAIM4>
+<CLAIM5>
+5. A cutter assembly as in any one of the preceding claims wherein the second cutter member can be indexed so as to present a different part of a cutting edge thereof to the first cutter member in successive cutting strokes.
+</CLAIM5>
+<CLAIM6>
+6. A cutter assembly as in claim 5 wherein the second cutter member has a plurality of recesses associated therewith, the recesses being arranged generally on a circle centred on an axis about which the second cutter member is indexible, and the second cutter member is indexed in use by directing a jet of fluid into each recess in turn.
+</CLAIM6>
+<CLAIM7>
+7. A cutte assembly as in claim 6 wherein the housing defines a chamber therein for the reception Cf pressurized fluid, and wherein the slidable member is in the form of a piston which is acted on in use by said pressurized fluid.
+</CLAIM7>
+<CLAIM8>
+8. A cutter assembly as in claim m 7 wherein the piston Is rc atable relative to the housing about the indexing, axis of the second cutter member, the second cutter member being rotatable with the piston, and the recesses are provided In a face of the piston.
+</CLAIM8>
+<CLAIM9>
+9. A cutte assembly as in claim 8 wherein the said face is acted n by the pressurized fluid In use se that t1s.e piston and second cutter member are indexed by pressurized fluid entering the chamber in use.
+</CLAIM9>
+<CLAIM10>
+10. A cutter assembly as in any one of the preceding claims wherein the housing is made in two parts which are connected together, the said opening being formed between mutually facing portions of the two housing parts.
+</CLAIM10>
+<CLAIM11>
+11. A cutter assembly as in any one of the preceding claims wherein the slidable member is slideably mounted on a shaft disposer within the housing, and the second cutted member is annular and is disposed co-axially with respect to the axis of the shaft.
+</CLAIM11>
+<CLAIM12>
+12. A cutted assembly as in any one of the preceding claims wherein linit switches are provided which are actuable when the slidable element reaches either of two extreme positions.
+</CLAIM12>
+<CLAIM13>
+13. A cutter assembly as in claim 12 wherein the limit switches are actuable by an element which is resiliently biassed into operative engagement with the slidable member and which serves to urge the slidable element into one of the two extreme positions
+</CLAIM13>
+<CLAIM14>
+14. A cutting machine for successively removing pieces from a workpiece, comprising@@ transporter, a moving mechanism operable to move the transporter along the workpiece in use,
+a cutter assembly as in any one of the preceding claims mounted on the transporter, and a control responsive to the completion of each cutting operation to energise the i.!ioving mechanism to move the transporter a predetermined distance along the workpiece.
+</CLAIM14>
+<CLAIM15>
+15. A cutting machine as in claim 14 when arranged to operate remotely without the need for manual invention.
+</CLAIM15>
+<CLAIM16>
+16. A cutting machine as in claim 14 or claim 1 15 wherein the control is arraned to render the moving mechanism inoperative if the cutting operation is not successfully completed.
+</CLAIM16>
+<CLAIM17>
+17. A cutting machine as in any one of claims 14 to li wherein a detector is mounted on the transporter and is arranged to detect the position of the worpiece relative thereto, and means is provided for adjusting the position of the cutter assembly relative to the transporter in accordance with signals received from the detector.
+</CLAIM17>
+</CLAIMS>
+<INDEPEDENT>
+[1, 5, 8, 10, 11, 12, 14]
+</INDEPEDENT>
+<DEPEDENT>
+[2, 3, 4, 6, 7, 9, 13, 15, 16, 17]
+</DEPEDENT>
+<UNION> 
+
+UNION CLAIM 1 :
+1. A cutter assembly comprising a housing, a member slidable within the housing, a first cutter member secured to the housing and disposed substantially internally thereof, a second cutter member mounted on the slidable member for movement therewith and disposed internally of the housing, the second cutter member being movable towards and away from the first cutter member and co-opereiting therewith to @erforr a cutting aclicl in lose, and an opening in the 
+Throught which a workpiece can be inserted in use to be cut by the cutter members., herein the housing has a cavity therein which is disposed so as to receive pieces of the workpiece which al'e -iemoved by th cutter members in use, and means is provided for removing the pieces from the cavity.
+
+UNION CLAIM 2 :
+2. A cutter assembly as in claim 1 wherein the housing has a cavity therein which is disposed so as to receive pieces of the workpiece which al'e -iemoved by th cutter members in use, and means is provided for removing the pieces from the cavity., herein the removing Leans includes fluid directing means which opens into te e cavity and which is arranged to guide the removed pieces to the workpiece into an outlet from the cavity.
+
+UNION CLAIM 3 :
+3. A cutter assembly as in claim 2 wherein the removing Leans includes fluid directing means which opens into te e cavity and which is arranged to guide the removed pieces to the workpiece into an outlet from the cavity., herein the cavity is connectable to a vacuum source,
+ he second cutter member when juxtaposed to the first cutted member substantially seals the cavity, and the fluid diresting means comprises at least one port which communicates With the exterior of the housing, whereby external atmosphere enters the cavity through the or each port when a vacuum is applied to the cavity in use.
+
+UNION CLAIM 5 :
+5. A cutter assembly as in any one of the preceding claims wherein the second cutter member can be indexed so as to present a different part of a cutting edge thereof to the first cutter member in successive cutting strokes., herein the second cutter member has a plurality of recesses associated therewith, the recesses being arranged generally on a circle centred on an axis about which the second cutter member is indexible, and the second cutter member is indexed in use by directing a jet of fluid into each recess in turn.
+
+UNION CLAIM 6 :
+6. A cutter assembly as in claim 5 wherein the second cutter member has a plurality of recesses associated therewith, the recesses being arranged generally on a circle centred on an axis about which the second cutter member is indexible, and the second cutter member is indexed in use by directing a jet of fluid into each recess in turn., herein the housing defines a chamber therein for the reception Cf pressurized fluid, and wherein the slidable member is in the form of a piston which is acted on in use by said pressurized fluid.
+
+UNION CLAIM 8 :
+8. A cutter assembly as in claim m 7 wherein the piston Is rc atable relative to the housing about the indexing, axis of the second cutter member, the second cutter member being rotatable with the piston, and the recesses are provided In a face of the piston., herein the said face is acted n by the pressurized fluid In use se that t1s.e piston and second cutter member are indexed by pressurized fluid entering the chamber in use.
+
+UNION CLAIM 12 :
+12. A cutted assembly as in any one of the preceding claims wherein linit switches are provided which are actuable when the slidable element reaches either of two extreme positions., wherein the limit switches are actuable by an element which is resiliently biassed into operative engagement with the slidable member and which serves to urge the slidable element into one of the two extreme positions 
+
+
+UNION CLAIM 14 :
+14. A cutting machine for successively removing pieces from a workpiece, comprising@@ transporter, a moving mechanism operable to move the transporter along the workpiece in use, a cutter assembly as in any one of the preceding claims mounted on the transporter, and a control responsive to the completion of each cutting operation to energise the i.!ioving mechanism to move the transporter a predetermined distance along the workpiece.
+
+
+, when arranged to operate remotely without the need for manual invention., or claim 1 15 wherein the control is arraned to render the moving mechanism inoperative if the cutting operation is not successfully complete, to li wherein a detector is mounted on the transporter and is arranged to detect the position of the worpiece relative thereto, and means is provided for adjusting the position of the cutter assembly relative to the transporter in accordance with signals received from the detecto
+</UNION>
+<DOCNO>
+EP-0004002-A1
+</DOCNO>
+<CLAIMS>
+<CLAIM1>
+2050/Si 1. Zweikomponentensystem zur Herstellung von abriebfesten
+Modellen und Werkzeugen, insbesondere für Zwecke der
+Giessereiindustrie, dadurch gekennzeichnet, dass die A-Komponente mindestens ein lineares Polypropylen glykol mit einem Molekulargewicht von 500 - 3000 oder ein tri- oder höherfunktionelles Polyol mit einem
+Molekulargewicht zwischen 200 - 800, entsprechend einer Hydroxilzahl zwischen 200 - 800 oder Mischungen davon, mindestens ein festes oder flüssiges Gleit mittel und übliche Reaktionsbeschleuniger, Stabili satoren und Füllstoffe enthält und die B-Komponente ein aromatisches Isocyanat oder Prepolymer hier von enthält.
+</CLAIM1>
+<CLAIM2>
+2. Zweikomponentensystem nach Anspruch 1, dadurch gekenn zeichnet, dass die A-Komponente das Ethylenoxi- oder
+Propylenoxiaddukt an ein tri-funktionelles Polyol, beispielsweise Trimethylolpropan oder Glycerin, enthält.
+</CLAIM2>
+<CLAIM3>
+3. Zweikomponentensystem nach Anspruch 1, dadurch gekenn zeichnet, dass die A-Komponente ein tetra- bis octa funktionelles Polyol oder Polyamin enthält, welches beispielsweise Ethylendiamin, Pentaerythrit- oder
+Sucrose-Bausteine enthält.
+</CLAIM3>
+<CLAIM4>
+4. Zweikomponentensystem nach Anspruch 1, dadurch ge kennzeichnet, dass die A-Komponente das Propylenoxid addukt an ein Triol, vorzugsweise Glycerin, Trimethyl olpropan, Trimethylolethan, Hexantriol -1.2.6.,
+Pentaerythrit oder Hexite enthält.
+</CLAIM4>
+<CLAIM5>
+5. Zweikomponentensystem nach einem der Ansprüche 1 bis
+4, dadurch gekennzeichnet, dass die B-Komponente ein aromatisches Diisocyanat der allgemeinen Formel I
+EMI8.1 
+ in der X einen Methylenrest oder eine S02-Gruppe und R und R' ein H-Atom, ein Chloratom und/oder eine
+Methylgruppe bedeuten, oder ein Prepolymer hiervon enthält.
+</CLAIM5>
+<CLAIM6>
+6. Zweikomponentensystem nach einem der Ansprüche 1 bis
+5, dadurch gekennzeichnet, dass die B-Komponente
+Toluylendiisocyanat enthält.
+</CLAIM6>
+<CLAIM7>
+7. Zweikomponentensystem nach Anspruch 5, dadurch gekenn zeichnet, dass das aromatische Diisocyanat Methyl diphenyldiisocyanat, vorzugsweise 4,4'-Diisocyanato diphenylmethan, in reiner oder roher Form ist.
+</CLAIM7>
+<CLAIM8>
+8. Zweikomponentensystem nach Anspruch 7, dadurch gekenn zeichnet, dass das aromatische Diisocyanat rohes Diphe nylmethan-4,4'-diisocyanat mit einer Funktonalität von
+2 bis 2,8 ist.
+</CLAIM8>
+<CLAIM9>
+9. Zweikomponentensystem nach einem der Ansprüche 1 bis
+8, dadurch gekennzeichnet, dass das aromatische
+Diisocyanat in Form eines Prepolymers, beispielsweise in Form eines Polyoladdukts, verwendet wird.
+</CLAIM9>
+<CLAIM10>
+10. Zweikomponentensystem nach einem der Ansprüche 1 bis
+9, dadurch gekennzeichnet, dass das Gleitmittel ein
+Schmiermittel, beispielsweise ein mineralisches oder synthetisches Oel oder ein Weichmacher, ist.
+</CLAIM10>
+<CLAIM11>
+11 Zweikomponentensystem nach einem der Ansprüche 1 bis
+10, dadurch gekennzeichnet, dass der Reaktionsbe schleuniger ein tertiäres Amin enthält.
+</CLAIM11>
+<CLAIM12>
+12. Zweikomponentensystem nach einem der Ansprüche 1 bis
+11, dadurch gekennzeichnet, dass die Reaktionsbe schleunigermenge derart bemessen ist, dass spätestens
+1 Minute nach Vermischen der A- mit der B-Komponente die exotherme Additionsreaktion einsetzt und innerhalb von weiteren 5 bis 10 Minuten zum Erstarren des Ge misches führt, welches nach spätestens 24 Stunden die endgültigen Gebrauchseigenschaften aufweist.
+</CLAIM12>
+<CLAIM13>
+13. Zweikomponentensystem nach einem der Ansprüche 2, 4,
+5, 7 bis 12, dadurch gekennzeichnet, dass die A-Kompo nente ein trifunktionelles Polyol gestartet mit
+Glycerin und mit Ketten auf Basis Propylenglykol mit einem Molekulargewicht von ca. 500 und einer OH-Zahl von ca. 360, ein Paraffinöl der Viskosität 100 cp bei 200 C, ein tertiäres Amin sowie Ceolith enthält und die B-Komponente rohes Diphenylmethan-4,4' diisocyanat enthält.
+</CLAIM13>
+<CLAIM14>
+14. Zw.ikomponentensystem nach Anspruch 13, dadurch ge kennzeichnet, dass die A-Komponente 38 Gew. % Polyol, 
+4 Gew. % Paraffinöl und 8 Gew. % Ceolith enthält und die B-Komponente 82 Gew. % der A-Komponente ausmacht"
+</CLAIM14>
+<CLAIM15>
+15. Zweikomponentensystem nach einem der Ansprüche 1 bis
+14, dadurch gekennzeichnet, dass die A-Komponente max
+35 Gew. %, vorzugsweise ca. 4 Gew. % Gleitmittel enthält.
+</CLAIM15>
+<CLAIM16>
+16. Verwendung des Zweikomponentensystems gemäss einem der Ansprüche 1 bis 15 zur Herstellung von abriebfesten
+Modellen und Werkzeugen durch Mischen der Komponente
+A mit der Komponente B, vorzugsweise im stöchiome trischen Verhältnis.
+</CLAIM16>
+<CLAIM17>
+17. Verwendung des Zweikomponentensystems gemäss einem der
+Ansprüche 1 bis 16, dadurch gekennzeichnet, dass die vermischten A- und B-Komponenten auf einem Träger in einer maximal 5 mm dicken Schicht ausgehärtet werden.
+</CLAIM17>
+<CLAIM18>
+18. Abriebfeste Modelle und Werkzeuge, insbesondere für
+Zwecke der Giessereiindustrie, hergestellt unter Ver wendung des Zweikomponentensystems nach einem der
+Ansprüche 1 bis 17.
+</CLAIM18>
+</CLAIMS>
+<INDEPEDENT>
+[1]
+</INDEPEDENT>
+<DEPEDENT>
+[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+</DEPEDENT>
+<UNION> 
+
+UNION CLAIM 1 :
+2050/Si 1. Zweikomponentensystem zur Herstellung von abriebfesten
+Modellen und Werkzeugen, insbesondere für Zwecke der
+Giessereiindustrie, dadurch gekennzeichnet, dass die A-Komponente mindestens ein lineares Polypropylen glykol mit einem Molekulargewicht von 500 - 3000 oder ein tri- oder höherfunktionelles Polyol mit einem
+Molekulargewicht zwischen 200 - 800, entsprechend einer Hydroxilzahl zwischen 200 - 800 oder Mischungen davon, mindestens ein festes oder flüssiges Gleit mittel und übliche Reaktionsbeschleuniger, Stabili satoren und Füllstoffe enthält und die B-Komponente ein aromatisches Isocyanat oder Prepolymer hier von enthält., dadurch gekenn zeichnet, dass die A-Komponente das Ethylenoxi- oder
+Propylenoxiaddukt an ein tri-funktionelles Polyol, beispielsweise Trimethylolpropan oder Glycerin, enthält., dadurch gekenn zeichnet, dass die A-Komponente ein tetra- bis octa funktionelles Polyol oder Polyamin enthält, welches beispielsweise Ethylendiamin, Pentaerythrit- oder
+Sucrose-Bausteine enthäl, dadurch ge kennzeichnet, dass die A-Komponente das Propylenoxid addukt an ein Triol, vorzugsweise Glycerin, Trimethyl olpropan, Trimethylolethan, Hexantriol -1.2.6.,
+Pentaerythrit oder Hexite enthäl, is
+4, dadurch gekennzeichnet, dass die B-Komponente ein aromatisches Diisocyanat der allgemeinen Formel I
+EMI8.1 
+ in der X einen Methylenrest oder eine S02-Gruppe und R und R' ein H-Atom, ein Chloratom und/oder eine
+Methylgruppe bedeuten, oder ein Prepolymer hiervon enthäl, is
+5, dadurch gekennzeichnet, dass die B-Komponente
+Toluylendiisocyanat enthäl, is
+8, dadurch gekennzeichnet, dass das aromatische
+Diisocyanat in Form eines Prepolymers, beispielsweise in Form eines Polyoladdukts, verwendet wir, is
+9, dadurch gekennzeichnet, dass das Gleitmittel ein
+Schmiermittel, beispielsweise ein mineralisches oder synthetisches Oel oder ein Weichmacher, is, is
+10, dadurch gekennzeichnet, dass der Reaktionsbe schleuniger ein tertiäres Amin enthäl, is
+11, dadurch gekennzeichnet, dass die Reaktionsbe schleunigermenge derart bemessen ist, dass spätestens
+1 Minute nach Vermischen der A- mit der B-Komponente die exotherme Additionsreaktion einsetzt und innerhalb von weiteren 5 bis 10 Minuten zum Erstarren des Ge misches führt, welches nach spätestens 24 Stunden die endgültigen Gebrauchseigenschaften aufweis, is
+14, dadurch gekennzeichnet, dass die A-Komponente max
+35 Gew. %, vorzugsweise ca. 4 Gew. % Gleitmittel enthäl, is 15 zur Herstellung von abriebfesten
+Modellen und Werkzeugen durch Mischen der Komponente
+A mit der Komponente B, vorzugsweise im stöchiome trischen Verhältni, is 16, dadurch gekennzeichnet, dass die vermischten A- und B-Komponenten auf einem Träger in einer maximal 5 mm dicken Schicht ausgehärtet werde, is 1
+
+UNION CLAIM 5 :
+5. Zweikomponentensystem nach einem der Ansprüche 1 bis
+4, dadurch gekennzeichnet, dass die B-Komponente ein aromatisches Diisocyanat der allgemeinen Formel I
+EMI8.1 
+ in der X einen Methylenrest oder eine S02-Gruppe und R und R' ein H-Atom, ein Chloratom und/oder eine
+Methylgruppe bedeuten, oder ein Prepolymer hiervon enthält., dadurch gekenn zeichnet, dass das aromatische Diisocyanat Methyl diphenyldiisocyanat, vorzugsweise 4,4'-Diisocyanato diphenylmethan, in reiner oder roher Form ist.
+
+UNION CLAIM 7 :
+7. Zweikomponentensystem nach Anspruch 5, dadurch gekenn zeichnet, dass das aromatische Diisocyanat Methyl diphenyldiisocyanat, vorzugsweise 4,4'-Diisocyanato diphenylmethan, in reiner oder roher Form ist., dadurch gekenn zeichnet, dass das aromatische Diisocyanat rohes Diphe nylmethan-4,4'-diisocyanat mit einer Funktonalität von
+2 bis 2,8 ist.
+
+UNION CLAIM 2 :
+2. Zweikomponentensystem nach Anspruch 1, dadurch gekenn zeichnet, dass die A-Komponente das Ethylenoxi- oder
+Propylenoxiaddukt an ein tri-funktionelles Polyol, beispielsweise Trimethylolpropan oder Glycerin, enthält., 4,
+5, 7 bis 12, dadurch gekennzeichnet, dass die A-Kompo nente ein trifunktionelles Polyol gestartet mit
+Glycerin und mit Ketten auf Basis Propylenglykol mit einem Molekulargewicht von ca. 500 und einer OH-Zahl von ca. 360, ein Paraffinöl der Viskosität 100 cp bei 200 C, ein tertiäres Amin sowie Ceolith enthält und die B-Komponente rohes Diphenylmethan-4,4' diisocyanat enthält.
+
+UNION CLAIM 13 :
+13. Zweikomponentensystem nach einem der Ansprüche 2, 4,
+5, 7 bis 12, dadurch gekennzeichnet, dass die A-Kompo nente ein trifunktionelles Polyol gestartet mit
+Glycerin und mit Ketten auf Basis Propylenglykol mit einem Molekulargewicht von ca. 500 und einer OH-Zahl von ca. 360, ein Paraffinöl der Viskosität 100 cp bei 200 C, ein tertiäres Amin sowie Ceolith enthält und die B-Komponente rohes Diphenylmethan-4,4' diisocyanat enthält.,  dadurch ge kennzeichnet, dass die A-Komponente 38 Gew. % Polyol, 
+4 Gew. % Paraffinöl und 8 Gew. % Ceolith enthält und die B-Komponente 82 Gew. % der A-Komponente ausmacht"
+</UNION>
+<DOCNO>
+EP-0006401-A1
+</DOCNO>
+<CLAIMS>
+<CLAIM1>
+1. A catalyst composition characterized by
+ at least one platinum compound supported on a calcined,
+ acidic, nickel and rare earth-treated crystalline zeolite
+ which additionally has a halide content sufficient to
+ promote the selectivity of the composition to produce a
+ desired cycloalkyl aromatic hydrocarbon when said composition
+ is employed to contact an aromatic hydrocarbon in a hydroalky
+ lation reaction.
+</CLAIM1>
+<CLAIM2>
+2. The composition of claim 1) characterized by the fact
+ that the crystalZhe zeolite is selected from the group
+ consisting of Type X and Type Y zeolites;
+ the rare earth and nickel compounds employed to treat the
+ zeolite are selected from the group consisting of nitrates,
+ bromides, acetates, chlorides, iodides, sulfates and
+ mixtures thereof;
+;
+ the rare earth metal is selected from the group consisting
+ of cerium, lanthanum, praseodymium, neodymium, samarium,
+ europium, gadolinium, terbium, dysprosium, holmium, erbium,
+ thulium, ytterbium, lutetium and mixtures thereof,
+ the platinum compound is selected from the group consisting
+ of ammonium hexachloroplatinate(IV), ammonium tetrachloro
+ platinate(II), chloroplatinic acid, diaminoplatinum dinitrite,
+ platinic acid, platinum tetrachloride and mixtures thereof,
+ the halide source is selected from the group consisting of
+ fluorine, bromine, chlorine, iodine, carbon tetrachloride,
+ carbon tetraiodide, tetrachloroethylene, chloroform, bromoform,
+ dichloromethane, dibromoethane, difluoromethane, chloro
+ methane, bromomethane, 1,4-dichlorobutane, 1,4-dibromobutane,
+ l-chlorobutane,
+l-fluorobutane, 1-bromobutane, 1,2-dichloro
+ ethane, 1,2-dibromoethane, 2-chloropropane, 2-bromopropane,
+ acetyl iodide, acetyl chloride, acetyl bromide, bromochloro
+ methane, l-bromo--chlorobutane, 1,2-dichloroethylene,
+ 1,2-dibromoethylene and mixtures thereof.
+</CLAIM2>
+<CLAIM3>
+3. The composition of claim 1) characterized by the fact that
+ the crystalline zeolite is the alkali metal form with the
+ alkali metal content of the calcined, acidic, nickel and
+ rare earth-treated crystalline zeolite in the range of from
+ about 0.01 to about 2 per cent by weight of said composition;
+ the rare earth content of the calcined, acidic, nickel and
+ rare earth-treated crystalline zeolite ranges from about
+ 2 to about 25 per cent by weight of said composition;
+ the nickel content of the calcined, acidic, nickel and rare
+ earth-treated crystalline zeolite ranges from about 0.01 to
+ about 15 per cent by weight of said composition; and
+ the halogen is chlorine or bromine.
+</CLAIM3>
+<CLAIM4>
+4. The composition of claim 1) characterized by the fact
+ that the crystalline zeolite is the alkali metal form
+ with the alkali metal content of the calcined, acidic,
+ nickel and rare earth-treated crystalline zeolite ranges
+ from about 0.05 to about 1 per cent by weight of said
+ composition;
+ the rare earth content of the calcined, acidic, nickel
+ and rare earth-treated crystalline zeolite ranges from
+ about 5 to about 20 per cent by weight of said composition;
+ the nickel content of the calcined, acidic, nickel and
+ rare earth-treated crystalline zeolite ranges from about
+ 1 to about 8 per cent by weight of said composition; and
+ the halogen is chlorine or bromine.
+</CLAIM4>
+<CLAIM5>
+5. The composition of claim 1) characterized by the fact
+ that the crystalline zeolite is selected from the group
+ consisting of Type X and Type Y zeolites; and
+ the platinum compound is chloroplatinic acid, the nickel
+ compound used to treat the crystalline zeolite is nickel
+ chloride hexahydrate, the rare earth metal compound used
+ to treat the crystalline zeolite is a mixture of the
+ chlorides of at least lanthanum, cerium, praseodymium,
+ neodymium, samarium and gadolinium, and the halide is
+ chloride.
+</CLAIM5>
+<CLAIM6>
+6. A process for producing monocycloalkyl aromatic hydrocarbon
+ and alky-substituted monocycloalkyl aromatic hydrocarbons
+ characterized by contacting a monocyclic aromatic hydro
+ carbon under hydroalkylation and in the presence of hydrogen
+ with a catalyst as defined in one of claims 1) to 5).
+</CLAIM6>
+<CLAIM7>
+7. The process of claim 6) characterized in that the catalyst
+ is treated with hydrogen prior to being contacted with
+ monocyclic aromatic hydrocarbon.
+</CLAIM7>
+<CLAIM8>
+8. A process of claim 6) characterized in that the monocyclic
+ aromatic hydrocarbon is contacted with said catalyst
+ at a liquid hourly space velocity ranging from about 1 to
+ about 100, a hydrogen pressure ranging from about 690 to
+ about 13800 kilopascals (100 to 2000 psig), a hydrogen
+ feed rate ranging from about 0.1 to about 10 moles per
+ hour of hydrogen per mole of monocyclic aromatic hydro
+ carton, and a temperature ranging from about 100 to about
+ 250 C.
+</CLAIM8>
+<CLAIM9>
+9. A process of claim 6) characterized in that the
+ crystalline zeolite is selected from the group
+ consisting of Type X and Type Y zeolites", and
+ the platinum compound is chloroplatinic acid, the nickel
+ compound used to treat the crystalline zeolite is nickel
+ chloride hexahydrate, the rare earth metal compound used
+ to treat the crystalline zeolite is a mixture of the
+ chlorides of at least lanthanum, cerium, praseodymium,
+ neodymium, samarium and gadolinium, and the halide is
+ chloride.
+</CLAIM9>
+<CLAIM10>
+10. A method for the preparation of a catalyst composition
+ characterized by
+ contacting a crystalline zeolite with an aqueous cation
+ exchange solution comprising rare earth, nickel and
+ ammonium compounds;
+ removing the cation exchanged zeolite from said solution
+ and washing said zeolite with water to remove excess
+ ions;
+ calcining said cation exchanged zeolite;
+ cooling said calcined zeolite;
+ impregnating said cation exchanged zeolite with a
+ solution comprising at least one platinum compound in
+ a suitable solvent;
+ removing said solvent by evaporation;
+ said cation exchanged zeolite is calcined and then cooled
+ either before or after said platinum compound is impreg
+ nated on said zeolite;
+;
+ and
+ contacting said platinum impregnated and calcined crystalline
+ zeolite with a halogen-containing compound in an amount
+ sufficient to promote the selectivity of said composition
+ to produce a desired cycloalkyl aromatic hydrocarbon when
+ said composition is used to contact an aromatic hydro
+ carbon in a hydroalkylation process.
+</CLAIM10>
+<CLAIM11>
+11. A method of claim 10) characterized in that said
+ composition is treated with hydrogen subsequent to the
+ removal by evaporation of the platinum compound solvent.
+</CLAIM11>
+<CLAIM12>
+12. A method of claim 10) characterized in that the
+ crystalline zeolite is selected from the group of
+ Type X and Type Y zeolites; and
+ the platinum compound is chloroplatinic acid,
+ the nickel compound used to treat the crystalline
+ zeolite is nickel chloride hexahydrate, the rare
+ earth metal compound used to treat the crystalline
+ zeolite is a mixture of the chlorides of at least
+ lanthanum, cerium, praseodymium, neodymium, samarium
+ and gadolinium, and the halide is chlorine.
+</CLAIM12>
+</CLAIMS>
+<INDEPEDENT>
+[1, 10]
+</INDEPEDENT>
+<DEPEDENT>
+[2, 3, 4, 5, 6, 7, 8, 9, 11, 12]
+</DEPEDENT>
+<UNION> 
+
+UNION CLAIM 1 :
+1. A catalyst composition characterized by
+ at least one platinum compound supported on a calcined,
+ acidic, nickel and rare earth-treated crystalline zeolite
+ which additionally has a halide content sufficient to
+ promote the selectivity of the composition to produce a
+ desired cycloalkyl aromatic hydrocarbon when said composition
+ is employed to contact an aromatic hydrocarbon in a hydroalky
+ lation reaction., characterized by the fact
+ that the crystalZhe zeolite is selected from the group
+ consisting of Type X and Type Y zeolites;
+ the rare earth and nickel compounds employed to treat the
+ zeolite are selected from the group consisting of nitrates,
+ bromides, acetates, chlorides, iodides, sulfates and
+ mixtures thereof;;
+ the rare earth metal is selected from the group consisting
+ of cerium, lanthanum, praseodymium, neodymium, samarium,
+ europium, gadolinium, terbium, dysprosium, holmium, erbium,
+ thulium, ytterbium, lutetium and mixtures thereof,
+ the platinum compound is selected from the group consisting
+ of ammonium hexachloroplatinate(IV), ammonium tetrachloro
+ platinate(II), chloroplatinic acid, diaminoplatinum dinitrite,
+ platinic acid, platinum tetrachloride and mixtures thereof,
+ the halide source is selected from the group consisting of
+ fluorine, bromine, chlorine, iodine, carbon tetrachloride,
+ carbon tetraiodide, tetrachloroethylene, chloroform, bromoform,
+ dichloromethane, dibromoethane, difluoromethane, chloro
+ methane, bromomethane, 1,4-dichlorobutane, 1,4-dibromobutane,
+ l-chlorobutane,
+ l-fluorobutane, 1-bromobutane, 1,2-dichloro
+ ethane, 1,2-dibromoethane, 2-chloropropane, 2-bromopropane,
+ acetyl iodide, acetyl chloride, acetyl bromide, bromochloro
+ methane, l-bromo--chlorobutane, 1,2-dichloroethylene,
+ 1,2-dibromoethylene and mixtures thereof.
+
+
+, characterized by the fact that
+ the crystalline zeolite is the alkali metal form with the
+ alkali metal content of the calcined, acidic, nickel and
+ rare earth-treated crystalline zeolite in the range of from
+ about 0.01 to about 2 per cent by weight of said composition;
+ the rare earth content of the calcined, acidic, nickel and
+ rare earth-treated crystalline zeolite ranges from about
+ 2 to about 25 per cent by weight of said composition;
+ the nickel content of the calcined, acidic, nickel and rare
+ earth-treated crystalline zeolite ranges from about 0.01 to
+ about 15 per cent by weight of said composition; and
+ the halogen is chlorine or bromin, characterized by the fact
+ that the crystalline zeolite is the alkali metal form
+ with the alkali metal content of the calcined, acidic,
+ nickel and rare earth-treated crystalline zeolite ranges
+ from about 0.05 to about 1 per cent by weight of said
+ composition;
+ the rare earth content of the calcined, acidic, nickel
+ and rare earth-treated crystalline zeolite ranges from
+ about 5 to about 20 per cent by weight of said composition;
+ the nickel content of the calcined, acidic, nickel and
+ rare earth-treated crystalline zeolite ranges from about
+ 1 to about 8 per cent by weight of said composition; and
+ the halogen is chlorine or bromin, characterized by the fact
+ that the crystalline zeolite is selected from the group
+ consisting of Type X and Type Y zeolites; and
+ the platinum compound is chloroplatinic acid, the nickel
+ compound used to treat the crystalline zeolite is nickel
+ chloride hexahydrate, the rare earth metal compound used
+ to treat the crystalline zeolite is a mixture of the
+ chlorides of at least lanthanum, cerium, praseodymium,
+ neodymium, samarium and gadolinium, and the halide is
+ chlorid, to 5
+
+UNION CLAIM 6 :
+6. A process for producing monocycloalkyl aromatic hydrocarbon
+ and alky-substituted monocycloalkyl aromatic hydrocarbons
+ characterized by contacting a monocyclic aromatic hydro
+ carbon under hydroalkylation and in the presence of hydrogen
+ with a catalyst as defined in one of claims 1) to 5)., characterized in that the catalyst
+ is treated with hydrogen prior to being contacted with
+ monocyclic aromatic hydrocarbon., characterized in that the monocyclic
+ aromatic hydrocarbon is contacted with said catalyst
+ at a liquid hourly space velocity ranging from about 1 to
+ about 100, a hydrogen pressure ranging from about 690 to
+ about 13800 kilopascals (100 to 2000 psig), a hydrogen
+ feed rate ranging from about 0.1 to about 10 moles per
+ hour of hydrogen per mole of monocyclic aromatic hydro
+ carton, and a temperature ranging from about 100 to about
+ 250 , characterized in that the
+ crystalline zeolite is selected from the group
+ consisting of Type X and Type Y zeolites", and
+ the platinum compound is chloroplatinic acid, the nickel
+ compound used to treat the crystalline zeolite is nickel
+ chloride hexahydrate, the rare earth metal compound used
+ to treat the crystalline zeolite is a mixture of the
+ chlorides of at least lanthanum, cerium, praseodymium,
+ neodymium, samarium and gadolinium, and the halide is
+ chlorid
+
+UNION CLAIM 10 :
+10. A method for the preparation of a catalyst composition
+ characterized by
+ contacting a crystalline zeolite with an aqueous cation
+ exchange solution comprising rare earth, nickel and
+ ammonium compounds;
+ removing the cation exchanged zeolite from said solution
+ and washing said zeolite with water to remove excess
+ ions;
+ calcining said cation exchanged zeolite;
+ cooling said calcined zeolite;
+ impregnating said cation exchanged zeolite with a
+ solution comprising at least one platinum compound in
+ a suitable solvent;
+ removing said solvent by evaporation;
+ said cation exchanged zeolite is calcined and then cooled
+ either before or after said platinum compound is impreg
+ nated on said zeolite;;
+ and
+ contacting said platinum impregnated and calcined crystalline
+ zeolite with a halogen-containing compound in an amount
+ sufficient to promote the selectivity of said composition
+ to produce a desired cycloalkyl aromatic hydrocarbon when
+ said composition is used to contact an aromatic hydro
+ carbon in a hydroalkylation process.
+
+ 
+,  characterized in that said
+ composition is treated with hydrogen subsequent to the
+ removal by evaporation of the platinum compound solvent.,  characterized in that the
+ crystalline zeolite is selected from the group of
+ Type X and Type Y zeolites; and
+ the platinum compound is chloroplatinic acid,
+ the nickel compound used to treat the crystalline
+ zeolite is nickel chloride hexahydrate, the rare
+ earth metal compound used to treat the crystalline
+ zeolite is a mixture of the chlorides of at least
+ lanthanum, cerium, praseodymium, neodymium, samarium
+ and gadolinium, and the halide is chlorin
+</UNION>
+<DOCNO>
+EP-0636874-A1
+</DOCNO>
+<CLAIMS>
+<CLAIM1>
+Procédé de dosage d'une quantité prédéterminée d'un liquide, 
+caractérisé en ce que :(a) on dispose d'au moins une cavité capillaire (1,11,57) susceptible de 
+contenir ledit liquide, dont l'orifice (2,21) débouchant à l'extérieur sert à la 
+fois à l'introduction et/au vidage dudit liquide, et est dimensionné de telle 
+sorte que le liquide ne puisse pas entrer ou sortir spontanément de ladite 
+cavité, notamment de section inférieure à celle de la cavité capillaire ; (b) on dispose d'un bain (3, 31) dudit liquide ; (c) on vide au moins partiellement ladite cavité (1,11,57), au départ exempte 
+de tout liquide, pour amener sa pression interne résiduelle à une valeur 
+inférieure à celle régnant au-dessus du bain liquide (3,31) lors de 
+l'étape (d), notamment la pression atmosphérique ; (d) on met en communication, par l'orifice (2,21), I'intérieur de la cavité 
+capillaire (1,11,57) au moins partiellement vidée, avec le bain 
+liquide (3,31), notamment sous la pression atmosphérique, moyennant 
+quoi on remplit ladite cavité ; (e) on sépare la cavité capillaire (1,11,57) remplie, du reste du bain 
+liquide (3,31) ; (f) on vide la cavité capillaire remplie (1,11,57), séparée du bain 
+liquide (3,31). 
+</CLAIM1>
+<CLAIM2>
+Procédé selon la revendication 1, caractérisé en ce qu'on 
+effectue l'étape (c), en disposant ladite cavité (1,11,57) dans le bain 
+liquide (3,31), et en appliquant au-dessus de ce dernier une pression 
+inférieure à celle régnant au-dessus du bain liquide (3, 31) lors de l'étape (d). 
+</CLAIM2>
+<CLAIM3>
+Procédé selon la revendication 1, caractérisé en ce qu'on 
+effectue l'étape (f) selon l'un quelconque des modes définis ci-après, à savoir : 
+3.1) l'application d'une force centrifuge passant par 
+l'orifice d'introduction (2) ; 3.2) l'application à l'extérieur de la cavité (1, 11) d'une pression externe 
+inférieure à sa pression interne ; 3.3) l'application à l'intérieur de la cavité (1, 11) d'une pression 
+supérieure à sa pression interne ; 3.4) le volume liquide remplissant la cavité (1, 11) est poussé à 
+l'extérieur de cette dernière. 
+</CLAIM3>
+<CLAIM4>
+Procédé selon la revendication 3, selon lequel on effectue 
+l'étape (f) par le mode 3.2, caractérisé en ce qu'on dispose la cavité (1,11,57), 
+dans un autre bain liquide (4), et on applique au-dessus dudit bain une 
+pression inférieure à la pression interne de la cavité (1,11,57). 
+</CLAIM4>
+<CLAIM5>
+Méthode de dilution contrôlée d'un liquide, mettant en oeuvre un 
+procédé de dosage selon l'une quelconque des revendications 1 à 4, 
+caractérisée en ce que, d'une part le liquide à diluer (1,11,57) constitue le bain 
+liquide selon les étapes (a) à (e), et d'autre part, selon l'étape (f), on vide la 
+cavité (31) remplie dans une quantité dosée d'un diluant liquide (4). 
+</CLAIM5>
+<CLAIM6>
+Méthode de dilution selon les revendications 1, 4 et 5, 
+caractérisée en ce que la quantité dosée du diluant liquide (4) constitue ledit 
+autre bain liquide selon l'étape (f) du procédé de dosage. 
+</CLAIM6>
+<CLAIM7>
+Dispositif de dosage d'une quantité prédéterminée d'un liquide, 
+caractérisé en ce qu'il comprend : 
+(A) un moyen ou support (5,51) de dosage, servant au prélèvement 
+puis à la libération du liquide, comprenant une cavité (1,11,57) 
+capillaire, susceptible de contenir ledit liquide, dont l'orifice (2,21) 
+débouchant à l'extérieur sert à la fois à l'introduction et/au vidage 
+dudit liquide, dimensionné de telle sorte que le liquide ne puisse 
+pas entrer ou sortir spontanément de ladite cavité, notamment de 
+section inférieure à celle de la cavité capillaire ; (B) un contenant (6,61) susceptible de contenir un bain (3,31) dudit 
+liquide, dont l'intérieur est susceptible de communiquer avec 
+l'intérieur de la cavité (1,11,57) du moyen de dosage, par 
+l'orifice (2,21) de la cavité ; (c) un moyen de vidage (8) de la cavité (1,11,57) du moyen de dosage, 
+au départ exempte de tout liquide, par son orifice (2,21) ; (D) un moyen de séparation de la cavité remplie du moyen de dosage, 
+du reste du bain liquide (3,31) ; (E) un moyen de vidage de la cavité remplie de liquide, mais séparée 
+du reste du liquide. 
+</CLAIM7>
+<CLAIM8>
+Dispositif de dosage selon la revendication 7, caractérisé en ce 
+que le moyen de vidage consiste en un moyen (12) de mise en dépression du 
+ciel gazeux au-dessus du contenant. 
+</CLAIM8>
+<CLAIM9>
+Dispositif selon la revendication 7, caractérisé en ce que le 
+moyen de séparation de la cavité remplie, du reste du bain liquide, est, ou un 
+ 
+moyen de pompage de cette dernière, ou un moyen d'aspiration de cette 
+dernière par un orifice calibré de la cavité. 
+</CLAIM9>
+<CLAIM10>
+Dispositif selon la revendication 7, caractérisé en ce que le 
+moyen de vidage de la cavité remplie de liquide est un moyen d'application à 
+ladite cavité d'une pression inférieure à sa pression interne. 
+</CLAIM10>
+<CLAIM11>
+Dispositif de dosage selon l'une quelconque des 
+revendications 7 à 11, caractérisé en ce que l'orifice 
+d'introduction/vidage (2,21) à une dimension transversale, telle que diamètre, 
+plus faible que la dimension transversale moyenne de la cavité capillaire, 
+selon sa longueur. 
+</CLAIM11>
+<CLAIM12>
+Dispositif de dilution contrôlée d'un liquide, incorporant un 
+dispositif de dosage selon l'une quelconque des revendications 7 à 10, 
+caractérisé en ce que le même contenant (6, 61) sert à la réception, et du 
+liquide à diluer et du diluant liquide. 
+</CLAIM12>
+<CLAIM13>
+Dispositif de dilution selon la revendication 7, caractérisé en ce 
+que le moyen ou support de dosage (5) est une aiguille (51) déterminant le 
+conduit capillaire (11) et comportant deux orifices (21,22), l'un communiquant 
+avec le contenant (61), et l'autre avec l'extérieur ou un récipient. 
+</CLAIM13>
+<CLAIM14>
+Dispositif selon la revendication 12, caractérisé en ce que le 
+contenant (61) est en relation avec un moyen (12) de mise en dépression et/ou 
+mise sous pression, et un moyen (13) d'introduction et/ou d'évacuation du 
+liquide à diluer. 
+</CLAIM14>
+</CLAIMS>
+<INDEPEDENT>
+[1, 7]
+</INDEPEDENT>
+<DEPEDENT>
+[2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14]
+</DEPEDENT>
+<UNION> 
+
+UNION CLAIM 1 :
+Procédé de dosage d'une quantité prédéterminée d'un liquide, 
+caractérisé en ce que :(a) on dispose d'au moins une cavité capillaire (1,11,57) susceptible de 
+contenir ledit liquide, dont l'orifice (2,21) débouchant à l'extérieur sert à la 
+fois à l'introduction et/au vidage dudit liquide, et est dimensionné de telle 
+sorte que le liquide ne puisse pas entrer ou sortir spontanément de ladite 
+cavité, notamment de section inférieure à celle de la cavité capillaire ; (b) on dispose d'un bain (3, 31) dudit liquide ; (c) on vide au moins partiellement ladite cavité (1,11,57), au départ exempte 
+de tout liquide, pour amener sa pression interne résiduelle à une valeur 
+inférieure à celle régnant au-dessus du bain liquide (3,31) lors de 
+l'étape (d), notamment la pression atmosphérique ; (d) on met en communication, par l'orifice (2,21), I'intérieur de la cavité 
+capillaire (1,11,57) au moins partiellement vidée, avec le bain 
+liquide (3,31), notamment sous la pression atmosphérique, moyennant 
+quoi on remplit ladite cavité ; (e) on sépare la cavité capillaire (1,11,57) remplie, du reste du bain 
+liquide (3,31) ; (f) on vide la cavité capillaire remplie (1,11,57), séparée du bain 
+liquide (3,31). , caractérisé en ce qu'on 
+effectue l'étape (c), en disposant ladite cavité (1,11,57) dans le bain 
+liquide (3,31), et en appliquant au-dessus de ce dernier une pression 
+inférieure à celle régnant au-dessus du bain liquide (3, 31) lors de l'étape (d). , caractérisé en ce qu'on 
+effectue l'étape (f) selon l'un quelconque des modes définis ci-après, à savoir : 
+3.1) l'application d'une force centrifuge passant par 
+l'orifice d'introduction (2) ; 3.2) l'application à l'extérieur de la cavité (1, 11) d'une pression externe 
+inférieure à sa pression interne ; 3.3) l'application à l'intérieur de la cavité (1, 11) d'une pression 
+supérieure à sa pression interne ; 3.4) le volume liquide remplissant la cavité (1, 11) est poussé à 
+l'extérieur de cette dernière. ,  4, 
+caractérisée en ce que, d'une part le liquide à diluer (1,11,57) constitue le bain 
+liquide selon les étapes (a) à (e), et d'autre part, selon l'étape (f), on vide la 
+cavité (31) remplie dans une quantité dosée d'un diluant liquide (4). , 4 et 5, 
+caractérisée en ce que la quantité dosée du diluant liquide (4) constitue ledit 
+autre bain liquide selon l'étape (f) du procédé de dosage. 
+
+UNION CLAIM 3 :
+Procédé selon la revendication 1, caractérisé en ce qu'on 
+effectue l'étape (f) selon l'un quelconque des modes définis ci-après, à savoir : 
+3.1) l'application d'une force centrifuge passant par 
+l'orifice d'introduction (2) ; 3.2) l'application à l'extérieur de la cavité (1, 11) d'une pression externe 
+inférieure à sa pression interne ; 3.3) l'application à l'intérieur de la cavité (1, 11) d'une pression 
+supérieure à sa pression interne ; 3.4) le volume liquide remplissant la cavité (1, 11) est poussé à 
+l'extérieur de cette dernière. , selon lequel on effectue 
+l'étape (f) par le mode 3.2, caractérisé en ce qu'on dispose la cavité (1,11,57), 
+dans un autre bain liquide (4), et on applique au-dessus dudit bain une 
+pression inférieure à la pression interne de la cavité (1,11,57). 
+
+UNION CLAIM 7 :
+Dispositif de dosage d'une quantité prédéterminée d'un liquide, 
+caractérisé en ce qu'il comprend : 
+(A) un moyen ou support (5,51) de dosage, servant au prélèvement 
+puis à la libération du liquide, comprenant une cavité (1,11,57) 
+capillaire, susceptible de contenir ledit liquide, dont l'orifice (2,21) 
+débouchant à l'extérieur sert à la fois à l'introduction et/au vidage 
+dudit liquide, dimensionné de telle sorte que le liquide ne puisse 
+pas entrer ou sortir spontanément de ladite cavité, notamment de 
+section inférieure à celle de la cavité capillaire ; (B) un contenant (6,61) susceptible de contenir un bain (3,31) dudit 
+liquide, dont l'intérieur est susceptible de communiquer avec 
+l'intérieur de la cavité (1,11,57) du moyen de dosage, par 
+l'orifice (2,21) de la cavité ; (c) un moyen de vidage (8) de la cavité (1,11,57) du moyen de dosage, 
+au départ exempte de tout liquide, par son orifice (2,21) ; (D) un moyen de séparation de la cavité remplie du moyen de dosage, 
+du reste du bain liquide (3,31) ; (E) un moyen de vidage de la cavité remplie de liquide, mais séparée 
+du reste du liquide. , caractérisé en ce 
+que le moyen de vidage consiste en un moyen (12) de mise en dépression du 
+ciel gazeux au-dessus du contenant. , caractérisé en ce que le 
+moyen de séparation de la cavité remplie, du reste du bain liquide, est, ou un 
+ 
+moyen de pompage de cette dernière, ou un moyen d'aspiration de cette 
+dernière par un orifice calibré de la cavité. , caractérisé en ce que le 
+moyen de vidage de la cavité remplie de liquide est un moyen d'application à 
+ladite cavité d'une pression inférieure à sa pression interne. ,  11, caractérisé en ce que l'orifice 
+d'introduction/vidage (2,21) à une dimension transversale, telle que diamètre, 
+plus faible que la dimension transversale moyenne de la cavité capillaire, 
+selon sa longueur. ,  10, 
+caractérisé en ce que le même contenant (6, 61) sert à la réception, et du 
+liquide à diluer et du diluant liquide. , caractérisé en ce 
+que le moyen ou support de dosage (5) est une aiguille (51) déterminant le 
+conduit capillaire (11) et comportant deux orifices (21,22), l'un communiquant 
+avec le contenant (61), et l'autre avec l'extérieur ou un récipient. 
+
+UNION CLAIM 12 :
+Dispositif de dilution contrôlée d'un liquide, incorporant un 
+dispositif de dosage selon l'une quelconque des revendications 7 à 10, 
+caractérisé en ce que le même contenant (6, 61) sert à la réception, et du 
+liquide à diluer et du diluant liquide. ,  caractérisé en ce que le 
+contenant (61) est en relation avec un moyen (12) de mise en dépression et/ou 
+mise sous pression, et un moyen (13) d'introduction et/ou d'évacuation du 
+liquide à diluer. 
+</UNION>
